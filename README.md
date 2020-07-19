@@ -20,3 +20,4 @@ This website is aimed to help students as well as professors. It is needed to he
 Procedures:
 
 Users need to create an account in order to share any documents. When students upload a class material, they will also provide the name of the school and name of the class as well as name of the instructor so that new students can easily spot what class it is. the website also has a rating system so that students can easily spot the best possible search result.
+___
